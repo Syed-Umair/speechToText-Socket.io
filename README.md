@@ -1,2 +1,1 @@
-# speechToText-Socket.io
-SpeechToText Socket.io Manager
+Speech To Text Feature Manager
